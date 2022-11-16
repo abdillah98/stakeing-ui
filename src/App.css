@@ -1,0 +1,25 @@
+.bg-custom {
+	background-color: #164F63 !important;
+	border-color: #164F63 !important;
+}
+.text-custom {
+	color: #164F63 !important;
+}
+.text-white-light {
+	color: #b4b4b4 !important;
+}
+.box-icon {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 50px;
+	width: 50px;
+	border-radius: 8px;
+	background-color: #165E76;
+}
+.cursor-pointer {
+	cursor: pointer !important;
+}
+.table > tbody > tr > td {
+     vertical-align: middle;
+}
